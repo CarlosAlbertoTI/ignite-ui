@@ -1,0 +1,2 @@
+import{A as t}from"./index-9a03ba64.js";import"./index-234413e8.js";import"./iframe-f9d9087d.js";import"./index-8e78bd63.js";import"./jsx-runtime-ccbbb8de.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/carlosalbertoti.png",alt:"Carlos Alberto"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:""}},e=["Primary","WithCallback"];export{l as Primary,p as WithCallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-76794802.js.map
